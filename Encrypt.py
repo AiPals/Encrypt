@@ -1,4 +1,4 @@
-#Badass#
+# Mouaad Garroud
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from cryptography.fernet import Fernet
